@@ -1,3 +1,5 @@
+// fetch process in async function
+
 async function getTelegramData() {
   const botToken = "6012991797:AAGK-9Jzb_WdpBWD92F2b62BlqQEnm5FifE"; // my telegram test bot token
 
