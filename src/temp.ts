@@ -7,4 +7,12 @@ async function getTelegramData() {
   return data;
 }
 
+// getTelegramData()
+//   .then((data) => {
+//     console.log(data);
+//   })
+//   .catch((error) => {
+//     console.error(error);
+//   });
+
 export { getTelegramData };
