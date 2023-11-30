@@ -7,6 +7,8 @@ async function getTelegramData() {
   return data;
 }
 
+// test
+
 // getTelegramData()
 //   .then((data) => {
 //     console.log(data);
