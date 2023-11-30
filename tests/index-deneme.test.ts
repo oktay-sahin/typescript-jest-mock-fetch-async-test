@@ -1,5 +1,7 @@
 import { getTelegramData } from "../src/index";
 
+// 
+
 const exampleData = {
   ok: true,
   result: {
